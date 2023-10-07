@@ -1,0 +1,5 @@
+{
+  "trailingComma": "all",
+  "htmlWhitespaceSensitivity": "ignore",
+  "bracketSameLine": true
+}

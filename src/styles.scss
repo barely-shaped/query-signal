@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "bootstrap/scss/bootstrap";
+
+.progress,
+.progress-stacked {
+  --bs-progress-border-radius: 5px;
+  --bs-progress-height: 5px;
+}
